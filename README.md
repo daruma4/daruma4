@@ -13,7 +13,6 @@
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> &nbsp;
-
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/labview/labview-original.svg" alt="Labview" width="50" height="50"/> &nbsp;
